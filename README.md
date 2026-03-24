@@ -1,6 +1,6 @@
 # chess-game
 
-This is a chess game built using Python with AI.
+This is a chess game built using Python 
 
 ## Features:
 - Move validation
